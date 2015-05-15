@@ -1,7 +1,7 @@
 # LED-Blinkin
 LED blinking using nodejs and Raspberry-pi
 
-Pre-Requisite:-
+# Pre-Requisite:-
 1.Raspberry-pi
 2.single LED di0de
 3.400 - 700 ohm Resistor
